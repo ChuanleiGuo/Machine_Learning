@@ -98,3 +98,6 @@ ENV/
 
 # Data that is too large to manage
 MNIST_data/
+
+# Jetbrains
+.idea/
