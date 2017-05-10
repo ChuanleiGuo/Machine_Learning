@@ -102,6 +102,10 @@ MNIST_data/
 # Jetbrains
 .idea/
 
+# VSCode
+.vscode/
+
 # Too big files
 amazon_baby.gl/
 lending-club-data.gl/
+amazon_baby_subset.gl/
