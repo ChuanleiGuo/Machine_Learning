@@ -109,3 +109,7 @@ MNIST_data/
 amazon_baby.gl/
 lending-club-data.gl/
 amazon_baby_subset.gl/
+people_wiki.gl/
+*.npz
+hymenoptera_data/
+*.tar.gz
