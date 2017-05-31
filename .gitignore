@@ -113,3 +113,4 @@ people_wiki.gl/
 *.npz
 hymenoptera_data/
 *.tar.gz
+cifar-10-batches-py/
