@@ -114,3 +114,6 @@ people_wiki.gl/
 hymenoptera_data/
 *.tar.gz
 cifar-10-batches-py/
+
+# temporarily would not commit
+Algorithms/
