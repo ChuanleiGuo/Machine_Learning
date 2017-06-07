@@ -114,6 +114,8 @@ people_wiki.gl/
 hymenoptera_data/
 *.tar.gz
 cifar-10-batches-py/
+images.sf/
+chosen_images.png
 
 # temporarily would not commit
 Algorithms/
