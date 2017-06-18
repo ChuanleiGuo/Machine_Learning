@@ -120,7 +120,12 @@ notMNIST_large/
 notMNIST_small/
 notMNIST_large.tar.gz
 notMNIST_small.tar.gz
-topic_models/
+lda_assignment_topic_model/
+lda_high_alpha/
+lda_high_gamma/
+lda_low_alpha/
+lda_low_gamma/
+
 
 # temporarily would not commit
 Algorithms/
