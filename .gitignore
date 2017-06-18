@@ -116,6 +116,11 @@ hymenoptera_data/
 cifar-10-batches-py/
 images.sf/
 chosen_images.png
+notMNIST_large/
+notMNIST_small/
+notMNIST_large.tar.gz
+notMNIST_small.tar.gz
+topic_models/
 
 # temporarily would not commit
 Algorithms/
