@@ -125,6 +125,7 @@ lda_high_alpha/
 lda_high_gamma/
 lda_low_alpha/
 lda_low_gamma/
+*.pickle
 
 
 # temporarily would not commit
