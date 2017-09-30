@@ -127,6 +127,9 @@ lda_low_alpha/
 lda_low_gamma/
 *.pickle
 
+# macOS
+.DS_Store
+
 
 # temporarily would not commit
 Algorithms/
