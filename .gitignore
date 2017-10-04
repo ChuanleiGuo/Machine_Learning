@@ -129,7 +129,3 @@ lda_low_gamma/
 
 # macOS
 .DS_Store
-
-
-# temporarily would not commit
-Algorithms/
