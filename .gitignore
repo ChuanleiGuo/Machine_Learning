@@ -129,3 +129,10 @@ lda_low_gamma/
 
 # macOS
 .DS_Store
+
+# bin
+
+*.gz
+*.params
+*.txt
+*.bin
