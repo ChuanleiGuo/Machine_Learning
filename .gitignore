@@ -136,3 +136,5 @@ lda_low_gamma/
 *.params
 *.txt
 *.bin
+
+!/Deep_Learning/pytorch/NLP/data/*/*.txt
